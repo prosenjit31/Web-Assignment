@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.title{
+    text-align: center;
+    background-color: rgb(86, 255, 71);
+    
+}
+.name-color{
+    color: rgb(206, 188, 30);
+}
+.half-width{
+    width: 40%;
+    float: left; 
+     margin-left: 5%;
+     padding: 2%;
+}
+.half-width img{
+width: 100%;
+}
+.bg-banner{
+    background-image: url(header-bg.png);
+
+    background-position: right;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: white;
+}
+.bio{
+    background-image: url(biography-bg.png);
+}
+*{
+   box-sizing: border-box; 
+
+}
+.project area{
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    
+    
+}
+.img{
+    float: left;
+    width: 33%;
+
+    
+}
+.center{
+    text-align: center;
+}
+.last-bg{
+    text-align: center;
+    background-color: yellowgreen;
+    box-sizing: 50%;
+    
+}
+.last-bg{
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+#lol{
+    text-align: center;
+}
